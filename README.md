@@ -5,7 +5,7 @@ when the button is touched if it's not hit the lucky number application will sho
 ![alt text](https://github.com/Rus1999/DiceRoll_app/blob/master/app/capture/diceRolled.png)
 
 if you hit the lucky number application will show "Lucky!!".
-![alt text](https://github.com/Rus1999/DiceRoll_app/blob/master/app/capture/Lucky.png)
+![alt text](https://github.com/Rus1999/DiceRoll_app/blob/master/app/capture/lucky.png)
 
 according to code when.
 ![alt text](https://github.com/Rus1999/DiceRoll_app/blob/master/app/capture/when().png)
